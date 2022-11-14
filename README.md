@@ -17,7 +17,7 @@
 
 ## Text Generation
 
+- [Sonnet generation](https://github.com/resh22an/natural-language-processing/blob/dcf37384946a9572053dd219329c2955b21c16e1/text-generation/ShakespeareSonnets.ipynb) - Predict the next word in a text sequence by training the model using a corpus of *Shakespeare's sonnets*
 - *Song generation* - Build a model to generate a new song by training it on the existing lyrics
   - [Training on a single song](https://github.com/resh22an/natural-language-processing/blob/dcf37384946a9572053dd219329c2955b21c16e1/text-generation/IrishSong.ipynb) 
   - [Training on lyrics dataset](https://github.com/resh22an/natural-language-processing/blob/dcf37384946a9572053dd219329c2955b21c16e1/text-generation/IrishPoetry.ipynb)
-- [Sonnet generation](https://github.com/resh22an/natural-language-processing/blob/dcf37384946a9572053dd219329c2955b21c16e1/text-generation/ShakespeareSonnets.ipynb) - Predict the next word in a text sequence by training the model using a corpus of Shakespeare's sonnets
