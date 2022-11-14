@@ -17,4 +17,5 @@
 
 ## Text Generation
 
+- [Song generation](https://github.com/resh22an/natural-language-processing/blob/dcf37384946a9572053dd219329c2955b21c16e1/text-generation/IrishSong.ipynb) - Build a model to generate a new song by training it on the lyrics from an Irish song
 - 
