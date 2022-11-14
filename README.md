@@ -3,7 +3,7 @@
 - This repo contains preparation material for [TensorFlow Developer Certification](https://www.tensorflow.org/certificate) (Content as in Coursera's [DeepLearning.AI TensorFlow Developer](https://coursera.org/professional-certificates/tensorflow-in-practice) course)
 - The below projects use ```tf.keras.layers.TextVectorization```instead of the deprecated ```tf.keras.preprocessing.text.Tokenizer```
 
-### Text Classification
+## Text Classification
 
 - *IMDB Reviews dataset* - Building a sentiment classification model to distinguish between positive and negative movie reviews
   - [IMDB Reviews - DNN](https://github.com/resh22an/natural-language-processing/blob/f35b115b30e7366d1284387825f5155b726992f4/text-classification/IMDBReviews_DNN.ipynb)
@@ -15,4 +15,6 @@
   - [Sarcasm - RNN, CNN](https://github.com/resh22an/natural-language-processing/blob/f35b115b30e7366d1284387825f5155b726992f4/text-classification/Sarcasm_RNN_CNN.ipynb)
 
 
-### Text Generation
+## Text Generation
+
+- 
